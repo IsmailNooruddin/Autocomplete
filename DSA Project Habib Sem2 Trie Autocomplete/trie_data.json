@@ -1,0 +1,4896 @@
+{
+    "child": {
+        "آ": {
+            "child": {
+                "پ": {
+                    "child": {
+                        "ک": {
+                            "child": {
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                },
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": true
+                },
+                "د": {
+                    "child": {
+                        "م": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "س": {
+                    "child": {
+                        "م": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "ن": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "گ": {
+                    "child": {},
+                    "last": true
+                },
+                "خ": {
+                    "child": {
+                        "ر": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ز": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "د": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ر": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "م": {
+                                    "child": {},
+                                    "last": true
+                                },
+                                "ئ": {
+                                    "child": {
+                                        "ش": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ل": {
+                    "child": {
+                        "و": {
+                            "child": {
+                                "د": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ہ": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ن": {
+                    "child": {
+                        "ک": {
+                            "child": {
+                                "ھ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "د": {
+                            "child": {
+                                "ھ": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "م": {
+                    "child": {},
+                    "last": true
+                },
+                "ج": {
+                    "child": {},
+                    "last": true
+                }
+            },
+            "last": false
+        },
+        "ب": {
+            "child": {
+                "ا": {
+                    "child": {
+                        "ت": {
+                            "child": {},
+                            "last": true
+                        },
+                        "ب": {
+                            "child": {
+                                "ر": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ل": {
+                            "child": {
+                                "ک": {
+                                    "child": {
+                                        "ل": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ر": {
+                            "child": {
+                                "ش": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "د": {
+                            "child": {
+                                "ل": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ز": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "ر": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                },
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "چ": {
+                    "child": {
+                        "ہ": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ل": {
+                    "child": {
+                        "و": {
+                            "child": {
+                                "چ": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        },
+                                        "س": {
+                                            "child": {
+                                                "ت": {
+                                                    "child": {
+                                                        "ا": {
+                                                            "child": {
+                                                                "ن": {
+                                                                    "child": {},
+                                                                    "last": true
+                                                                }
+                                                            },
+                                                            "last": false
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ا": {
+                            "child": {
+                                "گ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ی": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "د": {
+                    "child": {
+                        "ص": {
+                            "child": {
+                                "و": {
+                                    "child": {
+                                        "ر": {
+                                            "child": {
+                                                "ت": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ر": {
+                    "child": {
+                        "ا": {
+                            "child": {},
+                            "last": true
+                        },
+                        "ف": {
+                            "child": {},
+                            "last": true
+                        },
+                        "ت": {
+                            "child": {
+                                "ن": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ھ": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ئ": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ہ": {
+                    "child": {
+                        "ن": {
+                            "child": {},
+                            "last": true
+                        },
+                        "ت": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ی": {
+                    "child": {
+                        "ٹ": {
+                            "child": {
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                },
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ڈ": {
+                            "child": {
+                                "م": {
+                                    "child": {
+                                        "ن": {
+                                            "child": {
+                                                "ٹ": {
+                                                    "child": {
+                                                        "ن": {
+                                                            "child": {},
+                                                            "last": true
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "و": {
+                    "child": {
+                        "ل": {
+                            "child": {
+                                "ن": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "س": {
+                    "child": {},
+                    "last": true
+                },
+                "ص": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "ر": {
+                                    "child": {
+                                        "ت": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ک": {
+            "child": {
+                "ت": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ب": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": true
+                        },
+                        "ن": {
+                            "child": {
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                },
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "م": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {
+                                                "ب": {
+                                                    "child": {
+                                                        "ی": {
+                                                            "child": {},
+                                                            "last": true
+                                                        }
+                                                    },
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": true
+                        },
+                        "ن": {
+                            "child": {},
+                            "last": true
+                        },
+                        "پ": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ل": {
+                            "child": {
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                },
+                                "ج": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ر": {
+                            "child": {
+                                "و": {
+                                    "child": {
+                                        "ب": {
+                                            "child": {
+                                                "ا": {
+                                                    "child": {
+                                                        "ر": {
+                                                            "child": {},
+                                                            "last": true
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": true
+                        },
+                        "ف": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "س": {
+                            "child": {
+                                "ٹ": {
+                                    "child": {
+                                        "ر": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ھ": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "ل": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ڑ": {
+                            "child": {
+                                "ک": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ا": {
+                            "child": {
+                                "ن": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ہ": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ن": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "م": {
+                    "child": {
+                        "ب": {
+                            "child": {
+                                "ل": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ر": {
+                            "child": {
+                                "ہ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "پ": {
+                            "child": {
+                                "ن": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                },
+                                "ی": {
+                                    "child": {
+                                        "و": {
+                                            "child": {
+                                                "ٹ": {
+                                                    "child": {
+                                                        "ر": {
+                                                            "child": {},
+                                                            "last": true
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ی": {
+                            "child": {
+                                "ش": {
+                                    "child": {
+                                        "ن": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": true
+                },
+                "ر": {
+                    "child": {
+                        "و": {
+                            "child": {
+                                "ڑ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ک": {
+                            "child": {
+                                "ٹ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ش": {
+                    "child": {
+                        "ت": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ب": {
+                    "child": {
+                        "ڈ": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ٹ": {
+                    "child": {
+                        "و": {
+                            "child": {
+                                "ر": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "پ": {
+                    "child": {
+                        "ڑ": {
+                            "child": {
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ی": {
+                    "child": {
+                        "م": {
+                            "child": {
+                                "ر": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ف": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "ت": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ل": {
+                            "child": {
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ا": {
+                            "child": {},
+                            "last": true
+                        },
+                        "س": {
+                            "child": {
+                                "ے": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "و": {
+                            "child": {
+                                "ں": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ے": {
+                    "child": {
+                        " ": {
+                            "child": {
+                                "پ": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {
+                                                " ": {
+                                                    "child": {
+                                                        "ک": {
+                                                            "child": {
+                                                                "ے": {
+                                                                    "child": {},
+                                                                    "last": true
+                                                                }
+                                                            },
+                                                            "last": false
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "و": {
+                    "child": {
+                        "ن": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ل": {
+                    "child": {},
+                    "last": true
+                }
+            },
+            "last": false
+        },
+        "د": {
+            "child": {
+                "ر": {
+                    "child": {
+                        "خ": {
+                            "child": {
+                                "ت": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ی": {
+                            "child": {
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "و": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "ز": {
+                                            "child": {
+                                                "ہ": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "د": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "م": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "غ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "و": {
+                    "child": {
+                        "س": {
+                            "child": {
+                                "ت": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": true
+                                },
+                                "ر": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ڑ": {
+                            "child": {},
+                            "last": true
+                        },
+                        "ر": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ش": {
+                    "child": {
+                        "م": {
+                            "child": {
+                                "ن": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ن": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": true
+                },
+                "ھ": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "م": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "و": {
+                            "child": {
+                                "پ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ف": {
+                    "child": {
+                        "ت": {
+                            "child": {
+                                "ر": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ی": {
+                    "child": {
+                        "ک": {
+                            "child": {
+                                "ھ": {
+                                    "child": {
+                                        "ن": {
+                                            "child": {
+                                                "ا": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ع": {
+                    "child": {
+                        "ا": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ل": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ہ": {
+                    "child": {
+                        "ی": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ک": {
+                    "child": {
+                        "ھ": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": true
+        },
+        "پ": {
+            "child": {
+                "ھ": {
+                    "child": {
+                        "و": {
+                            "child": {
+                                "ل": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ل": {
+                            "child": {},
+                            "last": true
+                        },
+                        "ی": {
+                            "child": {
+                                "ل": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ر": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ن": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                },
+                                "د": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": true
+                        },
+                        "ؤ": {
+                            "child": {
+                                "ں": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": true
+                },
+                "ت": {
+                    "child": {
+                        "ل": {
+                            "child": {
+                                "و": {
+                                    "child": {
+                                        "ن": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ہ": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ڑ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ن": {
+                            "child": {
+                                "چ": {
+                                    "child": {
+                                        "ن": {
+                                            "child": {
+                                                "ا": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ن": {
+                    "child": {
+                        "ج": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "ب": {
+                                            "child": {
+                                                "ی": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ش": {
+                    "child": {
+                        "ت": {
+                            "child": {
+                                "و": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ر": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ن": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                },
+                                "گ": {
+                                    "child": {
+                                        "ن": {
+                                            "child": {
+                                                "د": {
+                                                    "child": {
+                                                        "ہ": {
+                                                            "child": {},
+                                                            "last": true
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "و": {
+                            "child": {
+                                "گ": {
+                                    "child": {
+                                        "ر": {
+                                            "child": {
+                                                "ا": {
+                                                    "child": {
+                                                        "م": {
+                                                            "child": {},
+                                                            "last": true
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ن": {
+                            "child": {
+                                "د": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ی": {
+                    "child": {
+                        "ل": {
+                            "child": {
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "غ": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "م": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "چ": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "س": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ڑ": {
+                    "child": {
+                        "ھ": {
+                            "child": {
+                                "ن": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ل": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "ٹ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": true
+        },
+        "س": {
+            "child": {
+                "م": {
+                    "child": {
+                        "ن": {
+                            "child": {
+                                "د": {
+                                    "child": {
+                                        "ر": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ج": {
+                            "child": {
+                                "ھ": {
+                                    "child": {
+                                        "ن": {
+                                            "child": {
+                                                "ا": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ڑ": {
+                    "child": {
+                        "ک": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "و": {
+                    "child": {
+                        "ر": {
+                            "child": {
+                                "ج": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ش": {
+                            "child": {
+                                "ل": {
+                                    "child": {
+                                        " ": {
+                                            "child": {
+                                                "م": {
+                                                    "child": {
+                                                        "ی": {
+                                                            "child": {
+                                                                "ڈ": {
+                                                                    "child": {
+                                                                        "ی": {
+                                                                            "child": {
+                                                                                "ا": {
+                                                                                    "child": {},
+                                                                                    "last": true
+                                                                                }
+                                                                            },
+                                                                            "last": false
+                                                                        }
+                                                                    },
+                                                                    "last": false
+                                                                }
+                                                            },
+                                                            "last": false
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "چ": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": true
+                },
+                "ت": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ر": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "خ": {
+                    "child": {
+                        "ت": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "چ": {
+                    "child": {},
+                    "last": true
+                },
+                "ی": {
+                    "child": {
+                        "ک": {
+                            "child": {
+                                "ن": {
+                                    "child": {
+                                        "ڈ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                },
+                                "ھ": {
+                                    "child": {
+                                        "ن": {
+                                            "child": {
+                                                "ا": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ا": {
+                            "child": {
+                                "س": {
+                                    "child": {
+                                        "ت": {
+                                            "child": {},
+                                            "last": true
+                                        },
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ل": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "ب": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": true
+                        },
+                        "ب": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ل": {
+                            "child": {},
+                            "last": true
+                        },
+                        "گ": {
+                            "child": {
+                                "ر": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ر": {
+                    "child": {
+                        "د": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "خ": {
+                            "child": {},
+                            "last": true
+                        },
+                        "م": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {
+                                                "ہ": {
+                                                    "child": {
+                                                        " ": {
+                                                            "child": {
+                                                                "ک": {
+                                                                    "child": {
+                                                                        "ا": {
+                                                                            "child": {
+                                                                                "ر": {
+                                                                                    "child": {
+                                                                                        "ی": {
+                                                                                            "child": {},
+                                                                                            "last": true
+                                                                                        }
+                                                                                    },
+                                                                                    "last": false
+                                                                                }
+                                                                            },
+                                                                            "last": false
+                                                                        }
+                                                                    },
+                                                                    "last": false
+                                                                }
+                                                            },
+                                                            "last": false
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ف": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "د": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ر": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ب": {
+                    "child": {
+                        "ز": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ک": {
+                    "child": {
+                        "و": {
+                            "child": {
+                                "ل": {
+                                    "child": {},
+                                    "last": true
+                                },
+                                "ا": {
+                                    "child": {
+                                        "ش": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                },
+                                "ن": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ن": {
+                    "child": {
+                        "ن": {
+                            "child": {
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "د": {
+                            "child": {
+                                "ھ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "س": {
+                    "child": {
+                        "ت": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ل": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "م": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        },
+                                        "ت": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ا": {
+            "child": {
+                "س": {
+                    "child": {
+                        "ک": {
+                            "child": {
+                                "و": {
+                                    "child": {
+                                        "ل": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ت": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "د": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ٹ": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "ش": {
+                                            "child": {
+                                                "ن": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ل": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "م": {
+                                            "child": {
+                                                " ": {
+                                                    "child": {
+                                                        "آ": {
+                                                            "child": {
+                                                                "ب": {
+                                                                    "child": {
+                                                                        "ا": {
+                                                                            "child": {
+                                                                                "د": {
+                                                                                    "child": {},
+                                                                                    "last": true
+                                                                                }
+                                                                            },
+                                                                            "last": false
+                                                                        }
+                                                                    },
+                                                                    "last": false
+                                                                }
+                                                            },
+                                                            "last": false
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ج": {
+                    "child": {
+                        "ن": {
+                            "child": {
+                                "ب": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "پ": {
+                    "child": {
+                        "ن": {
+                            "child": {
+                                "ے": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "چ": {
+                    "child": {
+                        "ھ": {
+                            "child": {
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                },
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ر": {
+                    "child": {
+                        "ب": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "د": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ر": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ھ": {
+                            "child": {
+                                "و": {
+                                    "child": {
+                                        "ر": {
+                                            "child": {
+                                                "ے": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ی": {
+                    "child": {
+                        "ئ": {
+                            "child": {
+                                "ر": {
+                                    "child": {
+                                        "پ": {
+                                            "child": {
+                                                "و": {
+                                                    "child": {
+                                                        "ر": {
+                                                            "child": {
+                                                                "ٹ": {
+                                                                    "child": {},
+                                                                    "last": true
+                                                                }
+                                                            },
+                                                            "last": false
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ل": {
+                            "child": {
+                                " ": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {
+                                                "ی": {
+                                                    "child": {
+                                                        " ": {
+                                                            "child": {
+                                                                "ڈ": {
+                                                                    "child": {
+                                                                        "ی": {
+                                                                            "child": {},
+                                                                            "last": true
+                                                                        }
+                                                                    },
+                                                                    "last": false
+                                                                }
+                                                            },
+                                                            "last": false
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        " ": {
+                            "child": {
+                                "م": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {
+                                                "ل": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ج": {
+                            "child": {
+                                "ن": {
+                                    "child": {
+                                        "ڈ": {
+                                            "child": {
+                                                "ا": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ن": {
+                    "child": {
+                        "ٹ": {
+                            "child": {
+                                "ر": {
+                                    "child": {
+                                        "ن": {
+                                            "child": {
+                                                "ی": {
+                                                    "child": {
+                                                        "ٹ": {
+                                                            "child": {},
+                                                            "last": true
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "گ": {
+                            "child": {
+                                "و": {
+                                    "child": {
+                                        "ر": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ت": {
+                            "child": {
+                                "ظ": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {
+                                                "ر": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ل": {
+                    "child": {
+                        "ل": {
+                            "child": {
+                                "ہ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ل": {
+            "child": {
+                "ڑ": {
+                    "child": {
+                        "ک": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                },
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ک": {
+                            "child": {
+                                "ھ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ک": {
+                    "child": {
+                        "ھ": {
+                            "child": {
+                                "ن": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ي": {
+                    "child": {
+                        "ک": {
+                            "child": {
+                                "ن": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": true
+                }
+            },
+            "last": false
+        },
+        "چ": {
+            "child": {
+                "م": {
+                    "child": {
+                        "چ": {
+                            "child": {
+                                "م": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": true
+                        },
+                        "ک": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ن": {
+                            "child": {
+                                "د": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "و": {
+                            "child": {
+                                "ل": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ئ": {
+                            "child": {
+                                "ے": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ی": {
+                    "child": {
+                        "ن": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ہ": {
+            "child": {
+                "و": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ئ": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {
+                                                " ": {
+                                                    "child": {
+                                                        "ج": {
+                                                            "child": {
+                                                                "ہ": {
+                                                                    "child": {
+                                                                        "ا": {
+                                                                            "child": {
+                                                                                "ز": {
+                                                                                    "child": {},
+                                                                                    "last": true
+                                                                                }
+                                                                            },
+                                                                            "last": false
+                                                                        }
+                                                                    },
+                                                                    "last": false
+                                                                }
+                                                            },
+                                                            "last": false
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": true
+                        },
+                        "ش": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ت": {
+                            "child": {
+                                "ھ": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ف": {
+                    "child": {
+                        "ت": {
+                            "child": {
+                                "ہ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ز": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ر": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "م": {
+                    "child": {
+                        "ت": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": true
+                }
+            },
+            "last": true
+        },
+        "م": {
+            "child": {
+                "ٹ": {
+                    "child": {
+                        "ی": {
+                            "child": {},
+                            "last": true
+                        },
+                        "ھ": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "ئ": {
+                                            "child": {
+                                                "ی": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ح": {
+                    "child": {
+                        "ب": {
+                            "child": {
+                                "ت": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ن": {
+                            "child": {
+                                "ت": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ف": {
+                            "child": {
+                                "ل": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ن": {
+                    "child": {
+                        "ہ": {
+                            "child": {},
+                            "last": true
+                        },
+                        "ٹ": {
+                            "child": {},
+                            "last": true
+                        },
+                        "ص": {
+                            "child": {
+                                "و": {
+                                    "child": {
+                                        "ب": {
+                                            "child": {
+                                                "ہ": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ا": {
+                            "child": {
+                                "ف": {
+                                    "child": {
+                                        "ع": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ظ": {
+                            "child": {
+                                "م": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ز": {
+                            "child": {
+                                "ل": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ں": {
+                            "child": {},
+                            "last": true
+                        },
+                        "ر": {
+                            "child": {
+                                "ک": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {
+                                                "ٹ": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ک": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ن": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ت": {
+                            "child": {
+                                "ب": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ہ": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "ن": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "و": {
+                    "child": {
+                        "س": {
+                            "child": {
+                                "م": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ٹ": {
+                            "child": {
+                                "ر": {
+                                    "child": {
+                                        " ": {
+                                            "child": {
+                                                "س": {
+                                                    "child": {
+                                                        "ا": {
+                                                            "child": {
+                                                                "ئ": {
+                                                                    "child": {
+                                                                        "ی": {
+                                                                            "child": {
+                                                                                "ک": {
+                                                                                    "child": {
+                                                                                        "ل": {
+                                                                                            "child": {},
+                                                                                            "last": true
+                                                                                        }
+                                                                                    },
+                                                                                    "last": false
+                                                                                }
+                                                                            },
+                                                                            "last": false
+                                                                        }
+                                                                    },
+                                                                    "last": false
+                                                                }
+                                                            },
+                                                            "last": false
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                },
+                                "ی": {
+                                    "child": {
+                                        "و": {
+                                            "child": {
+                                                "ی": {
+                                                    "child": {
+                                                        "ش": {
+                                                            "child": {
+                                                                "ن": {
+                                                                    "child": {},
+                                                                    "last": true
+                                                                }
+                                                            },
+                                                            "last": false
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ب": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "ئ": {
+                                            "child": {
+                                                "ل": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ا": {
+                            "child": {
+                                "ر": {
+                                    "child": {
+                                        "د": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ز": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": true
+                        },
+                        "ق": {
+                            "child": {
+                                "ع": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ط": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ل": {
+                                    "child": {
+                                        "ع": {
+                                            "child": {
+                                                "ہ": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ق": {
+                    "child": {
+                        "د": {
+                            "child": {
+                                "س": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ص": {
+                            "child": {
+                                "د": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ج": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ز": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ذ": {
+                    "child": {
+                        "ہ": {
+                            "child": {
+                                "ب": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ع": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ش": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                },
+                                "ف": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ل": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ق": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {
+                                                "ت": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ی": {
+                    "child": {
+                        "ر": {
+                            "child": {
+                                "ے": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ش": {
+                    "child": {
+                        "ک": {
+                            "child": {
+                                "ل": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "د": {
+                    "child": {
+                        "د": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ي": {
+                    "child": {
+                        "ں": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ز": {
+            "child": {
+                "م": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "ن": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ن": {
+                    "child": {
+                        "د": {
+                            "child": {
+                                "گ": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ب": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ن": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ی": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "د": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ف": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ف": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ج": {
+            "child": {
+                "ن": {
+                    "child": {
+                        "گ": {
+                            "child": {
+                                "ل": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ز": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "ر": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ھ": {
+                    "child": {
+                        "و": {
+                            "child": {
+                                "ٹ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ن": {
+                            "child": {
+                                "و": {
+                                    "child": {
+                                        "ر": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "د": {
+                    "child": {
+                        "و": {
+                            "child": {
+                                "ج": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {
+                                                "د": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "گ": {
+            "child": {
+                "ل": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ب": {
+                                    "child": {},
+                                    "last": true
+                                },
+                                "س": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ن": {
+                            "child": {
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ؤ": {
+                            "child": {
+                                "ں": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ڑ": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ئ": {
+                            "child": {
+                                "ے": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ہ": {
+                    "child": {
+                        "ر": {
+                            "child": {
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ھ": {
+                    "child": {
+                        "ن": {
+                            "child": {
+                                "ٹ": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ر": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "ل": {
+                                            "child": {
+                                                "و": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                },
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": true
+                        },
+                        "و": {
+                            "child": {
+                                "ڑ": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ر": {
+                    "child": {
+                        "م": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ف": {
+                    "child": {
+                        "ت": {
+                            "child": {
+                                "گ": {
+                                    "child": {
+                                        "و": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "و": {
+                    "child": {
+                        "ش": {
+                            "child": {
+                                "ت": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ز": {
+                    "child": {
+                        "ر": {
+                            "child": {
+                                "ن": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "خ": {
+            "child": {
+                "و": {
+                    "child": {
+                        "ر": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "ک": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ش": {
+                            "child": {
+                                "ب": {
+                                    "child": {
+                                        "و": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                },
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ب": {
+                            "child": {
+                                "ص": {
+                                    "child": {
+                                        "و": {
+                                            "child": {
+                                                "ر": {
+                                                    "child": {
+                                                        "ت": {
+                                                            "child": {},
+                                                            "last": true
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ف": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ب": {
+                    "child": {
+                        "ر": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "م": {
+                            "child": {
+                                "و": {
+                                    "child": {
+                                        "ش": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ن": {
+                            "child": {
+                                "د": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {
+                                                "ن": {
+                                                    "child": {
+                                                        "ی": {
+                                                            "child": {},
+                                                            "last": true
+                                                        }
+                                                    },
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ل": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "د": {
+                    "child": {
+                        "م": {
+                            "child": {
+                                "ت": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ی": {
+                    "child": {
+                        "ر": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "ت": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ص": {
+                    "child": {
+                        "و": {
+                            "child": {
+                                "ص": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ر": {
+                    "child": {
+                        "گ": {
+                            "child": {
+                                "و": {
+                                    "child": {
+                                        "ش": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "چ": {
+                    "child": {
+                        "چ": {
+                            "child": {
+                                "ر": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ع": {
+            "child": {
+                "ی": {
+                    "child": {
+                        "د": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ل": {
+                    "child": {
+                        "م": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ج": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "ب": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ف": {
+            "child": {
+                "ط": {
+                    "child": {
+                        "ر": {
+                            "child": {
+                                "ت": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ل": {
+                    "child": {
+                        "م": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ر": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "ز": {
+                                    "child": {
+                                        "ر": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ا": {
+                            "child": {
+                                "ہ": {
+                                    "child": {
+                                        "م": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ٹ": {
+                    "child": {
+                        " ": {
+                            "child": {
+                                "ب": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {
+                                                "ل": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "و": {
+                    "child": {
+                        "ن": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ن": {
+                    "child": {
+                        "ی": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ی": {
+                    "child": {
+                        "ص": {
+                            "child": {
+                                "ل": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "و": {
+            "child": {
+                "ط": {
+                    "child": {
+                        "ن": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ل": {
+                            "child": {
+                                "د": {
+                                    "child": {},
+                                    "last": true
+                                },
+                                "ی": {
+                                    "child": {
+                                        " ": {
+                                            "child": {
+                                                "ب": {
+                                                    "child": {
+                                                        "ا": {
+                                                            "child": {
+                                                                "ل": {
+                                                                    "child": {},
+                                                                    "last": true
+                                                                }
+                                                            },
+                                                            "last": false
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "پ": {
+                            "child": {
+                                "س": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ق": {
+                    "child": {
+                        "ت": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ی": {
+                    "child": {
+                        "ب": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ہ": {
+                    "child": {
+                        " ": {
+                            "child": {
+                                "ل": {
+                                    "child": {
+                                        "و": {
+                                            "child": {
+                                                "گ": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": true
+                }
+            },
+            "last": false
+        },
+        "ص": {
+            "child": {
+                "ل": {
+                    "child": {
+                        "ح": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ف": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ح": {
+                    "child": {
+                        "ت": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ح": {
+            "child": {
+                "ک": {
+                    "child": {
+                        "م": {
+                            "child": {
+                                "ت": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "س": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "ن": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ل": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ل": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ر": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "م": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ل": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "ت": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ش": {
+            "child": {
+                "ع": {
+                    "child": {
+                        "ر": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "و": {
+                    "child": {
+                        "ر": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ہ": {
+                    "child": {
+                        "ر": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "گ": {
+                            "child": {
+                                "ر": {
+                                    "child": {
+                                        "د": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "د": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ن": {
+            "child": {
+                "ی": {
+                    "child": {
+                        "ا": {
+                            "child": {},
+                            "last": true
+                        },
+                        "ل": {
+                            "child": {
+                                "ا": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ر": {
+                    "child": {
+                        "م": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ک": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ق": {
+                    "child": {
+                        "ص": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "ن": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "م": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ئ": {
+                                    "child": {
+                                        "ش": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ت": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "ج": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ظ": {
+                    "child": {
+                        "ر": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ہ": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ر": {
+                                    "child": {
+                                        "ی": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ت": {
+            "child": {
+                "ی": {
+                    "child": {
+                        "ز": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ک": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "ہ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ر": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "خ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ن": {
+                    "child": {
+                        "ظ": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "م": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ع": {
+                    "child": {
+                        "ل": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "م": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ج": {
+                    "child": {
+                        "ا": {
+                            "child": {
+                                "ر": {
+                                    "child": {
+                                        "ت": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ر": {
+                            "child": {
+                                "ب": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ر": {
+                    "child": {
+                        "ق": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ت": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "ب": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ص": {
+                    "child": {
+                        "و": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "ر": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ق": {
+                    "child": {
+                        "د": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "ر": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ھ": {
+                    "child": {
+                        "ک": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "و": {
+                                            "child": {
+                                                "ٹ": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "و": {
+                    "child": {},
+                    "last": true
+                },
+                "م": {
+                    "child": {
+                        "ہ": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "ر": {
+                                            "child": {
+                                                "ے": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ا": {
+                            "child": {
+                                "ت": {
+                                    "child": {
+                                        "ر": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": true
+                                }
+                            },
+                            "last": true
+                        }
+                    },
+                    "last": true
+                }
+            },
+            "last": true
+        },
+        "ق": {
+            "child": {
+                "ل": {
+                    "child": {
+                        "م": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ر": {
+                    "child": {
+                        "ض": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "و": {
+                    "child": {
+                        "ر": {
+                            "child": {
+                                "م": {
+                                    "child": {
+                                        "ہ": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ط": {
+            "child": {
+                "و": {
+                    "child": {
+                        "ف": {
+                            "child": {
+                                "ا": {
+                                    "child": {
+                                        "ن": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "ق": {
+                            "child": {
+                                "ت": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ر": {
+            "child": {
+                "ن": {
+                    "child": {
+                        "گ": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "ن": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ی": {
+                    "child": {
+                        "ل": {
+                            "child": {
+                                "و": {
+                                    "child": {
+                                        "ے": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ڈ": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "و": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ہ": {
+                    "child": {
+                        "ن": {
+                            "child": {
+                                "م": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {
+                                                "ئ": {
+                                                    "child": {
+                                                        "ی": {
+                                                            "child": {},
+                                                            "last": true
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ش": {
+                    "child": {
+                        "ت": {
+                            "child": {
+                                "ہ": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "و": {
+                    "child": {
+                        "ٹ": {
+                            "child": {
+                                "ی": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ی": {
+            "child": {
+                "و": {
+                    "child": {
+                        "ن": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        "و": {
+                                            "child": {
+                                                "ر": {
+                                                    "child": {
+                                                        "س": {
+                                                            "child": {
+                                                                "ٹ": {
+                                                                    "child": {
+                                                                        "ی": {
+                                                                            "child": {},
+                                                                            "last": true
+                                                                        }
+                                                                    },
+                                                                    "last": false
+                                                                }
+                                                            },
+                                                            "last": false
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ا": {
+                    "child": {
+                        "د": {
+                            "child": {
+                                "گ": {
+                                    "child": {
+                                        "ا": {
+                                            "child": {
+                                                "ر": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "ہ": {
+                    "child": {
+                        " ": {
+                            "child": {
+                                "ل": {
+                                    "child": {
+                                        "و": {
+                                            "child": {
+                                                "گ": {
+                                                    "child": {},
+                                                    "last": true
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": true
+                }
+            },
+            "last": false
+        },
+        "ٹ": {
+            "child": {
+                "ر": {
+                    "child": {
+                        "ی": {
+                            "child": {
+                                "ن": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                },
+                "ی": {
+                    "child": {
+                        "ن": {
+                            "child": {
+                                "س": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        },
+                        "ل": {
+                            "child": {
+                                "ی": {
+                                    "child": {
+                                        " ": {
+                                            "child": {
+                                                "و": {
+                                                    "child": {
+                                                        "ی": {
+                                                            "child": {
+                                                                "ژ": {
+                                                                    "child": {
+                                                                        "ن": {
+                                                                            "child": {},
+                                                                            "last": true
+                                                                        }
+                                                                    },
+                                                                    "last": false
+                                                                }
+                                                            },
+                                                            "last": false
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        },
+                        "ک": {
+                            "child": {
+                                "س": {
+                                    "child": {},
+                                    "last": true
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "ض": {
+            "child": {
+                "ر": {
+                    "child": {
+                        "و": {
+                            "child": {
+                                "ر": {
+                                    "child": {
+                                        "ت": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "غ": {
+            "child": {
+                "ص": {
+                    "child": {
+                        "ہ": {
+                            "child": {},
+                            "last": true
+                        }
+                    },
+                    "last": false
+                },
+                "م": {
+                    "child": {},
+                    "last": true
+                }
+            },
+            "last": false
+        },
+        "w": {
+            "child": {
+                "o": {
+                    "child": {
+                        "o": {
+                            "child": {
+                                "o": {
+                                    "child": {
+                                        "o": {
+                                            "child": {
+                                                "r": {
+                                                    "child": {
+                                                        "l": {
+                                                            "child": {
+                                                                "d": {
+                                                                    "child": {},
+                                                                    "last": true
+                                                                }
+                                                            },
+                                                            "last": false
+                                                        }
+                                                    },
+                                                    "last": false
+                                                }
+                                            },
+                                            "last": false
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        },
+        "e": {
+            "child": {
+                "e": {
+                    "child": {
+                        "r": {
+                            "child": {
+                                "e": {
+                                    "child": {
+                                        "r": {
+                                            "child": {},
+                                            "last": true
+                                        }
+                                    },
+                                    "last": false
+                                }
+                            },
+                            "last": false
+                        }
+                    },
+                    "last": false
+                }
+            },
+            "last": false
+        }
+    },
+    "last": true
+}
