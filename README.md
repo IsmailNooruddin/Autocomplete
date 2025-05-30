@@ -1,1 +1,1 @@
-# Autocomplete
+# Autocomplete using Trie Data structure was a team project I worked on alongside 2 other members as part of my final project for the course Data Structures and Algorithms during my second semester at Habib University
